@@ -1,0 +1,44 @@
+.section-head{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.section-container{
+       padding: 30px;
+
+}
+.section-img__1 ,.section-img__2,.section-img__3,.section-img__4{
+    height: auto;
+    width: auto;
+   display: inline-block;
+   text-align: center;
+   border: 1px black solid;
+ 
+  
+}
+.section-oredr{
+    background-color: black;
+    color: beige;
+}
+.section-form{
+    margin: 20px;
+    padding-top: 10px;
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+.section-send{
+    background-color: yellow;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-bottom: 10px;
+}
+.section-img{
+    text-align: center;
+}
+.section-item{
+   font-weight: 600;
+}
